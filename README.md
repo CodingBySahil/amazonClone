@@ -29,3 +29,7 @@ You can view the live demo of this project [by clicking me](https://codingbysahi
 ## Acknowledgements
 
 I would like to express my gratitude to [Bootstrap](https://getbootstrap.com/) for providing the CSS framework used in this project.
+
+## About the Author
+
+This project was created by [Muhammad Sahil](https://github.com/CodingBySahil). You can find more of my work on [codingBySahil](https://github.com/CodingBySahil).
